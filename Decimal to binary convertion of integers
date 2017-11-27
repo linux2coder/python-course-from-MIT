@@ -7,6 +7,6 @@ if num<0:
 else:
     sign=''
 while num>0:
-    binary+=str(num%2)
+    binary=str(num%2)+binary
     num=num//2
 print("binaryform of",x,"is:",sign+binary)
