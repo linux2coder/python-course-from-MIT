@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1525434324531">
+      <file name="/Dummy.txt" timestamp="1535557735206">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/python-course-from-MIT/fibbanocii series.py" timestamp="1525185893359">
@@ -21,9 +21,9 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/python-course-from-MIT/python using vim.py" timestamp="1524634300995">
+      <file name="$USER_HOME$/PycharmProjects/python-course-from-MIT/python using vim.py" timestamp="1535557687918">
         <mark key="j" line="5" column="17" />
-        <mark key="[" line="2" column="18" />
+        <mark key="[" line="9" column="18" />
         <mark key="]" line="2" column="17" />
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
